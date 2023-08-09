@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--0pqWfRGW--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/zu2k7lxpntzxweurtv9r.png)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--0pqWfRGW--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/zu2k7lxpntzxweurtv9r.png)
 <h1 align="center">Hi 👋, I'm Ahmet Rıdvan Ordulu</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
